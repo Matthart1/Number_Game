@@ -1,0 +1,13 @@
+C:\Users\mphar\Desktop\repos\firstGame_Numbers\pickANumberGame\pickANumberGame\bin\Debug\netcoreapp3.1\pickANumberGame.exe
+C:\Users\mphar\Desktop\repos\firstGame_Numbers\pickANumberGame\pickANumberGame\bin\Debug\netcoreapp3.1\pickANumberGame.deps.json
+C:\Users\mphar\Desktop\repos\firstGame_Numbers\pickANumberGame\pickANumberGame\bin\Debug\netcoreapp3.1\pickANumberGame.runtimeconfig.json
+C:\Users\mphar\Desktop\repos\firstGame_Numbers\pickANumberGame\pickANumberGame\bin\Debug\netcoreapp3.1\pickANumberGame.runtimeconfig.dev.json
+C:\Users\mphar\Desktop\repos\firstGame_Numbers\pickANumberGame\pickANumberGame\bin\Debug\netcoreapp3.1\pickANumberGame.dll
+C:\Users\mphar\Desktop\repos\firstGame_Numbers\pickANumberGame\pickANumberGame\bin\Debug\netcoreapp3.1\pickANumberGame.pdb
+C:\Users\mphar\Desktop\repos\firstGame_Numbers\pickANumberGame\pickANumberGame\obj\Debug\netcoreapp3.1\pickANumberGame.csprojAssemblyReference.cache
+C:\Users\mphar\Desktop\repos\firstGame_Numbers\pickANumberGame\pickANumberGame\obj\Debug\netcoreapp3.1\pickANumberGame.AssemblyInfoInputs.cache
+C:\Users\mphar\Desktop\repos\firstGame_Numbers\pickANumberGame\pickANumberGame\obj\Debug\netcoreapp3.1\pickANumberGame.AssemblyInfo.cs
+C:\Users\mphar\Desktop\repos\firstGame_Numbers\pickANumberGame\pickANumberGame\obj\Debug\netcoreapp3.1\pickANumberGame.csproj.CoreCompileInputs.cache
+C:\Users\mphar\Desktop\repos\firstGame_Numbers\pickANumberGame\pickANumberGame\obj\Debug\netcoreapp3.1\pickANumberGame.dll
+C:\Users\mphar\Desktop\repos\firstGame_Numbers\pickANumberGame\pickANumberGame\obj\Debug\netcoreapp3.1\pickANumberGame.pdb
+C:\Users\mphar\Desktop\repos\firstGame_Numbers\pickANumberGame\pickANumberGame\obj\Debug\netcoreapp3.1\pickANumberGame.genruntimeconfig.cache
